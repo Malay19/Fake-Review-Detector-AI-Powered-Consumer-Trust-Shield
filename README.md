@@ -26,7 +26,19 @@ By leveraging **TF-IDF vectorization, CountVectorizer, and ensemble ML models**,
 
 ---
 
-## 📈 Results 
+## 📊 Results
+The classification models were evaluated based on Accuracy, Precision, Recall, and F1-score. Below is a summary of their performance:
+
+🔹 **Model Performance**
+![image](https://github.com/user-attachments/assets/6f833e46-65bc-4953-a9f5-b2dd9c4d27ee)
+
+🔹 **Key Takeaways**
+Best Performing Model: SVM (88.23%) achieved the highest accuracy and F1-score.
+Naïve Bayes (85.15%) and Logistic Regression (86.48%) also showed strong performance.
+Decision Tree (73.75%) and KNN (70.52%) underperformed due to overfitting and sensitivity to feature space.
+🔹 **Most Influential Words**
+Words most affecting classification:
+small, littl, bought, much, problem, nt, good, even, great, love
 
 ![image](https://github.com/user-attachments/assets/e8370b61-244e-4803-80eb-193362d9d669)
 ![image](https://github.com/user-attachments/assets/442d7138-6315-4a09-bf67-9cf4383df24e)
