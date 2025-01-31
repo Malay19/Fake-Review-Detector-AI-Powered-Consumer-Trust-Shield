@@ -31,7 +31,8 @@ The classification models were evaluated based on Accuracy, Precision, Recall, a
 
 🔹 **Model Performance**
 
-![image](https://github.com/user-attachments/assets/6f833e46-65bc-4953-a9f5-b2dd9c4d27ee)
+![image](https://github.com/user-attachments/assets/147b3b9f-65dc-450d-8db2-11248fe3d3ad)
+
 
 🔹 **Key Takeaways**
 
