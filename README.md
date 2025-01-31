@@ -69,5 +69,5 @@ small, littl, bought, much, problem, nt, good, even, great, love
    ```
 
 2. **Access the project on Google Colab**:
-   🔗 [Colab Link](https://colab.research.google.com/drive/1nqTG-gdre1JYUR7yMtT6AipsvHpzCkn9?usp=sharing))
+   🔗 [Colab Link](https://colab.research.google.com/drive/1nqTG-gdre1JYUR7yMtT6AipsvHpzCkn9?usp=sharing)
 
