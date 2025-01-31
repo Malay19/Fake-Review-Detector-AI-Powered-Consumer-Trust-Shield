@@ -58,13 +58,16 @@ small, littl, bought, much, problem, nt, good, even, great, love
 
 
 
-## Access the project code on **Google Colab**:  
 
-🔗 [Colab Link]([https://colab.research.google.com/drive/1EHJ3MnVA3v58g9QradRSbT8b5mCq4lwp?usp=sharing](https://colab.research.google.com/drive/1nqTG-gdre1JYUR7yMtT6AipsvHpzCkn9?usp=sharing))
 
-## ⚡ Installation  
-Clone the repository:  
-```bash
-git clone https://github.com/yourusername/Fake-Review-Detector.git
-cd Fake-Review-Detector
+## ⚡ **How to Use the Project**
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/yourusername/Fake-Review-Detector.git
+   cd Fake-Review-Detector
+   ```
+
+2. **Access the project on Google Colab**:
+   🔗 [Colab Link]([https://colab.research.google.com/drive/1EHJ3MnVA3v58g9QradRSbT8b5mCq4lwp?usp=sharing](https://colab.research.google.com/drive/1nqTG-gdre1JYUR7yMtT6AipsvHpzCkn9?usp=sharing))
 
