@@ -59,7 +59,7 @@ small, littl, bought, much, problem, nt, good, even, great, love
 
 
 ## Access the project code on **Google Colab**:  
-🔗 [Colab Link](https://colab.research.google.com/drive/1EHJ3MnVA3v58g9QradRSbT8b5mCq4lwp?usp=sharing)
+🔗 [Colab Link]([https://colab.research.google.com/drive/1EHJ3MnVA3v58g9QradRSbT8b5mCq4lwp?usp=sharing](https://colab.research.google.com/drive/1nqTG-gdre1JYUR7yMtT6AipsvHpzCkn9?usp=sharing))
 
 ## ⚡ Installation  
 Clone the repository:  
