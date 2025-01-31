@@ -1,36 +1,28 @@
-# 🚀 Fake Review Detector: AI-Powered Review Authenticity Analysis  
+# 🚀 Fake Review Detector: AI-Powered Review Classification  
 
 ## 📌 Overview  
-Fake reviews impact consumer trust and business reputations. This AI-powered **Fake Review Detector** utilizes **Natural Language Processing (NLP) and Machine Learning** to classify reviews as **genuine or fake**, ensuring reliable decision-making for users and businesses.  
+Fake reviews mislead consumers and harm businesses. This **Fake Review Detector** uses **Machine Learning & NLP** to classify reviews as **genuine (OR) or fake (FR)**.  
 
-By leveraging **TF-IDF vectorization, CountVectorizer, and ensemble ML models**, the system detects patterns in review texts and flags suspicious entries with high accuracy.  
+By leveraging **TF-IDF vectorization, CountVectorizer, and ensemble ML models**, the system identifies deceptive patterns in review texts.  
 
 ---
 
 ## 🔥 Features  
 ✅ **Machine Learning-Based Classification**  
-- Implements **Random Forest, Logistic Regression, and XGBoost**.  
+- Implements **Naïve Bayes, Random Forest, Decision Tree, KNN, SVM, and Logistic Regression**.  
 - Uses **Bag-of-Words (BoW) and TF-IDF** for feature extraction.  
 
-📊 **Advanced Data Preprocessing**  
+📊 **Text Processing & Feature Engineering**  
 - Removes **stopwords, punctuation, and special characters**.  
-- Tokenization & **lemmatization** for better model performance.  
-
-🔍 **Explainability & Interpretability**  
-- Extracts **top influential words** impacting classification.  
-- Provides **SHAP and feature importance insights**.  
+- Extracts **top influential words** affecting classification.  
 
 📈 **Performance Evaluation**  
-- Metrics: **Accuracy, Precision, Recall, F1-score, and ROC curves**.  
-- Implements **cross-validation** to improve generalizability.  
+- Computes **Accuracy, Precision, Recall, and F1-score**.  
+- Displays **Confusion Matrices & Model Comparisons**.  
 
-🖥 **Interactive Dashboard**  
-- **Visualizes review authenticity trends**.  
-- Displays **classification results** in real time.  
-
-🛠 **Deployment Ready**  
-- Supports **Jupyter Notebook & Python scripts**.  
-- Can be deployed as a **Flask/Streamlit Web App**.  
+🛠 **Dataset Handling**  
+- Loads **Preprocessed Fake Reviews Detection Dataset.csv**.  
+- Analyzes **text length distribution** for data insights.  
 
 ---
 
@@ -39,4 +31,3 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/Fake-Review-Detector.git
 cd Fake-Review-Detector
-
